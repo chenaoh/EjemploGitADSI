@@ -1,0 +1,40 @@
+﻿Fases del ciclo de vida del Software a trabajar
+	• Levantamiento de Requerimientos
+	• Análisis	
+	• Diseño
+	• Implementación
+	• Pruebas
+	• Entrega a Cliente
+
+Lo anterior se evidenciaría en la documentación correspondiente:
+	• Artefactos Principales
+		 Informe General del sistema
+		 PT-PP-01 - Documento planteamiento del problema
+		 PT-PS-01 - Documento de Prototipado del Sistema
+		 PT-DCP-01 - Documento Casos de Prueba.
+		 PT-MU-01 - Manual de Usuario Administrador
+		 PT-MU-01 - Manual de Usuario Normal (los que apliquen)
+		 PT-MI-01 - Manual de Instalación
+		 PT-MTCA-01 - Manual Técnico o de Configuración
+		 PT-CBD-01 – Manual de Configuración Bases de Datos.
+		 PT-AR-01 – Acta de Reunion (todas las actas en este formato)
+	• Anexos
+		 Informe Gestión de Calidad
+		 Contrato de venta o préstamo de servicios
+		 Plan de capacitación
+		 Entrevistas, pruebas de campo, entre otros
+
+Adicionalmente para la entrega se tendrá la siguiente estructura para el CD del proyecto:
+Índice del CD
+	• Archivo TXT con el índice del CD, título de proyecto, ficha y Datos de los Aprendices.
+	• Carpeta Código Fuente
+	• Carpeta Documentos
+		 Informe General del Sistema
+		 Presentación
+		 Video Promocional
+		 Carpeta Entregables
+			 Carpeta Actas (deben estar organizadas por los sprint) 
+		 Carpeta Anexos
+	• Carpeta Instalador o APK (Si aplica)
+
+Nota: Los CD's deben estar rotulados y ser entregados en caja de pasta transparente.
